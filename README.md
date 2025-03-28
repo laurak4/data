@@ -1,2 +1,2 @@
-# data
-Project from Data Mining and Analytics 
+# 
+Projects from Data Mining and Analytics 
